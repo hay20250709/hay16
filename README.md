@@ -10,4 +10,4 @@
 
 平台提供了多个类别的高清影片，用户可以快速找到自己喜爱的内容。每个影片都详细描述了演员、时长和播放清晰度，确保带来流畅无缝的观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hay20250709/hay16 ）</span>
